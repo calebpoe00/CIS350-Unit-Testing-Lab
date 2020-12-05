@@ -14,4 +14,4 @@ language: java
 jdk:
   - openjdk11
 
-script: ant build
+# script: ant build
